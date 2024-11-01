@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/talentorient-ui/static/css/main.9f2f67c5.css",
+    "main.js": "/talentorient-ui/static/js/main.a8889ece.js",
+    "static/js/453.da3686ce.chunk.js": "/talentorient-ui/static/js/453.da3686ce.chunk.js",
+    "static/media/slick.svg": "/talentorient-ui/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/talentorient-ui/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/talentorient-ui/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/talentorient-ui/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/talentorient-ui/index.html",
+    "main.9f2f67c5.css.map": "/talentorient-ui/static/css/main.9f2f67c5.css.map",
+    "main.a8889ece.js.map": "/talentorient-ui/static/js/main.a8889ece.js.map",
+    "453.da3686ce.chunk.js.map": "/talentorient-ui/static/js/453.da3686ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2f67c5.css",
+    "static/js/main.a8889ece.js"
+  ]
+}
