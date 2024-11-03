@@ -1,8 +1,11 @@
 import React from 'react';
 import { Box, Typography } from '@mui/material';
+import HeroSection from '../components/Home/HeroSection'
 
 function Home() {
   return (
+    <>
+    <HeroSection/>
     <Box>
       <Typography variant="h2">Welcome to TalentOrient</Typography>
       <Typography paragraph>
@@ -10,6 +13,7 @@ function Home() {
       </Typography>
       {/* Add more content and images to match PDF's Home section */}
     </Box>
+    </>
   );
 }
 

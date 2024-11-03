@@ -11,13 +11,12 @@ function Footer() {
         left: 0,
         width: '100%',
         bgcolor: 'primary.main',
-        color: 'white',
         py: 2,
         textAlign: 'center'
       }}
     >
-      <Typography variant="body2">© 2020 TalentOrient. All rights reserved.</Typography>
-      <Typography variant="body2">Contact: +91 7303122649 | info@talentorient.com</Typography>
+      <Typography variant="h3">© 2020 TalentOrient. All rights reserved.</Typography>
+      <Typography variant="h3">Contact: +91 7303122649 | info@talentorient.com</Typography>
     </Box>
   );
 }

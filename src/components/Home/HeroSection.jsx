@@ -15,8 +15,8 @@ const HeroSection = () => {
         backgroundColor: 'primary.main',
         color: 'white',
         textAlign: 'center',
-        px: 2,
-        p:2
+        p:5,
+        m:5
       }}
     >
       <Container maxWidth="md">
