@@ -1,10 +1,13 @@
 import React from 'react';
 import { Box, Typography, TextField, Button } from '@mui/material';
+import SectionTitle from '../components/SectionTitle';
 
 function Contact() {
   return (
+    <>
+    
     <Box>
-      <Typography variant="h4">Contact Us</Typography>
+    <SectionTitle title="Contact Us" />
       <form>
         <TextField label="Name" fullWidth margin="normal" />
         <TextField label="Email" fullWidth margin="normal" />
@@ -16,6 +19,7 @@ function Contact() {
         <Typography variant="body1">Phone: +91 7303122649</Typography>
       </Box>
     </Box>
+    </>
   );
 }
 

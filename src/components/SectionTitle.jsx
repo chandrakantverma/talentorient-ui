@@ -1,12 +1,19 @@
 import React from 'react';
-import { Typography } from '@mui/material';
+import { Box, Typography } from '@mui/material';
 
 function SectionTitle({ title }) {
-  return (
-    <Typography variant="h4" gutterBottom>
-      {title}
-    </Typography>
-  );
+    return (
+        <Box
+
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+        >
+            <Typography variant="h4" gutterBottom>
+                {title}
+            </Typography>
+        </Box>
+    );
 }
 
 export default SectionTitle;

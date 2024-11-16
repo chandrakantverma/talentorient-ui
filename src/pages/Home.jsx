@@ -6,8 +6,14 @@ function Home() {
   return (
     <>
     <HeroSection/>
-    <Box>
-      <Typography variant="h2">Welcome to TalentOrient</Typography>
+
+    <Typography color='black' align='center' variant="h2">Welcome to TalentOrient</Typography>
+    <Box
+      display="flex"
+      justifyContent="center"
+      alignItems="center"
+    >
+      
       <Typography paragraph>
         TalentOrient is a pioneering staffing and HR solutions provider with a focus on the Aviation, Aerospace, and Defense industries.
       </Typography>
